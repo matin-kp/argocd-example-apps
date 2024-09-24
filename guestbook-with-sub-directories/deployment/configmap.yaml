@@ -6,4 +6,4 @@ metadata:
   namespace: guestbook
 
 data:
-  gitops: "false"
+  gitops: "true"
